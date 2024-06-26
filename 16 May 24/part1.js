@@ -92,4 +92,3 @@ console.log('New price is: ' + changeColor(products[1], 'yellow'));
 console.log(products[1]);
 console.log('New price is: ' + changeColor(products[2], 'green'));
 console.log(products[2]);
-//coding done by M. Zubair Shah
